@@ -10,3 +10,8 @@
 p {
   text-align: left;
 }
+
+.mx-5 {
+  margin-right: 25px;
+  margin-left: 25px;
+}
