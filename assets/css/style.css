@@ -240,7 +240,16 @@ h1, h2, h3, h4, h5, h6 {
     background-attachment: fixed;
   }
 }
+@media (max-width: 912px) {
+  #hero {
+    background-position: right;
+  }
+}
 @media (max-width: 768px) {
+  #hero {
+    background-position: right;
+  }
+
   #hero h1 {
     font-size: 28px;
     line-height: 36px;
