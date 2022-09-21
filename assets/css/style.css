@@ -374,7 +374,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
@@ -404,6 +404,38 @@ section {
   height: 10px;
   transition: 0.9s;
   background-color: #149ddd;
+}
+
+.text-html5 {
+  color: #e44d26;
+}
+
+.text-css3 {
+  color: #264de4;
+}
+
+.text-javascript {
+  color: #e9d54d;
+}
+
+.text-python {
+  color: #0000ee;
+}
+
+.text-php {
+  color: #7175aa;
+}
+
+.text-bootstrap {
+  color: #543b79;
+}
+
+.text-wordpress {
+  color: #000000;
+}
+
+.text-squarespace {
+  color: #000000;
 }
 
 /*--------------------------------------------------------------
