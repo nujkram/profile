@@ -140,7 +140,7 @@ function loadTestimonials() {
     })
 
     const testimonial_wrapper = document.querySelector('.swiper-wrapper');
-    testimonial_wrapper.innerHTML = testimonials;
+    testimonial_wrapper.innerHTML = testimonials.join('');
 
 }
 
